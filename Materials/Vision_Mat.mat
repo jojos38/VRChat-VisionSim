@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Vision_Mat
+  m_Shader: {fileID: 4800000, guid: d3af0103e04b44f9b7448fe27d90760f, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords:
+  - _DENOISE_ON
+  - _SYNCRIGHT_ON
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties: 
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs: []
+    m_Ints: []
+    m_Floats:
+    - _AxisL: 0
+    - _AxisR: 0
+    - _Boost: 6
+    - _CylinderL: 0
+    - _CylinderR: 0
+    - _Denoise: 1
+    - _DepthReject: 0
+    - _Enabled: 0
+    - _Gain: 1
+    - _IsLocal: 0
+    - _NearPoint: 0.12
+    - _PupilMM: 4
+    - _Quality: 24
+    - _SphereL: 0
+    - _SphereR: 0
+    - _SyncRight: 1
+    - _TemporalNoise: 0
+    m_Colors: []
+  m_BuildTextureStacks: []

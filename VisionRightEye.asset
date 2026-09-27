@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -340790334, guid: 67cc4cb7839cd3741b63733d5adf0442, type: 3}
+  m_Name: VisionRightEye
+  m_EditorClassIdentifier: 
+  Parameters: {fileID: 11400000, guid: b43d110cc9196db43b414ca92ccf7373, type: 2}
+  controls:
+  - name: Sphere
+    icon: {fileID: 2800000, guid: cc5bf8e17738b99408bb7e78735b9b15, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: VisionSphereR
+    labels: []
+  - name: Cylinder
+    icon: {fileID: 2800000, guid: 549d88c1e981b3a4faadf229b6fce4a2, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: VisionCylinderR
+    labels: []
+  - name: Axis
+    icon: {fileID: 2800000, guid: 2c6811d4980815e40a590aad1ad49c1f, type: 3}
+    type: 203
+    parameter:
+      name: 
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters:
+    - name: VisionAxisR
+    labels: []
