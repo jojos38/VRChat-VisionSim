@@ -32,12 +32,22 @@ MonoBehaviour:
   - name: VisionCylinderL
     valueType: 1
     saved: 1
-    defaultValue: 1
+    defaultValue: 0
     networkSynced: 0
   - name: VisionCylinderR
     valueType: 1
     saved: 1
-    defaultValue: 1
+    defaultValue: 0
+    networkSynced: 0
+  - name: VisionResetL
+    valueType: 2
+    saved: 0
+    defaultValue: 0
+    networkSynced: 0
+  - name: VisionResetR
+    valueType: 2
+    saved: 0
+    defaultValue: 0
     networkSynced: 0
   - name: VisionAxisL
     valueType: 1

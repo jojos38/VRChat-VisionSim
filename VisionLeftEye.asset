@@ -47,3 +47,13 @@ MonoBehaviour:
     subParameters:
     - name: VisionAxisL
     labels: []
+  - name: Reset
+    icon: {fileID: 2800000, guid: 22b75f6361f34224b8964b06b4ff6a89, type: 3}
+    type: 101
+    parameter:
+      name: VisionResetL
+    value: 1
+    style: 0
+    subMenu: {fileID: 0}
+    subParameters: []
+    labels: []
